@@ -1,0 +1,19 @@
+{
+  "name": "mysqlnodeapi",
+  "version": "1.0.0",
+  "description": "Creating the NodeJs Mysql API Using the Mysql DB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeep36butte/MysqlNodeJs-API.git"
+  },
+  "author": "Sandeep Butte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeep36butte/MysqlNodeJs-API/issues"
+  },
+  "homepage": "https://github.com/sandeep36butte/MysqlNodeJs-API#readme"
+}
