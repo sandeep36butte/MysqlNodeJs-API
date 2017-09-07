@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/sandeep36butte/MysqlNodeJs-API/issues"
   },
-  "homepage": "https://github.com/sandeep36butte/MysqlNodeJs-API#readme"
+  "homepage": "https://github.com/sandeep36butte/MysqlNodeJs-API#readme",
+  "scripts":{
+    "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "mysql": "^2.14.1"
+  }
 }
